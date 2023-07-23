@@ -1,1 +1,1 @@
-# List Indian States name and their Districts name
+# List of India's States name and their Districts name
